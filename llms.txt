@@ -1,0 +1,27 @@
+# iJazan
+
+> iJazan is a free siddur (Jewish prayer book) app for iPhone and Android that guides prayer line by line with audio, Hebrew text, transliteration and translation. Available in Spanish, English, Portuguese and Hebrew. Nusach of the Arizal (Siddur Tehillat Hashem). No ads, no in-app purchases, no account.
+
+iJazan is pronounced "ai-Jazán" (the "i" as in iPhone). It is made for people learning to pray and for anyone who wants to pray every day, especially Spanish- and Portuguese-speaking communities and Bnei Anusim returning to their roots.
+
+## Features
+
+- Weekday prayers with line-by-line audio: Birkot Hashachar, Shacharit, Mincha, Arvit and the bedtime Shema. The line being read is highlighted, with transliteration and translation.
+- Prayer plans by available time (Essential, Intermediate, Complete), showing duration and whether you finish before the zman ends.
+- Illustrated instructions: tallit, tefillin, Shema, tzitzit, steps of the Amidah.
+- Blessings (brachot) with audio and a food search that shows the blessing before and after eating; Birkat Hamazon, Kiddush, Havdalah, Tefilat Haderech, Sefirat HaOmer.
+- Zmanim calculated for the user's city, compass to Jerusalem, Hebrew date, weekly parasha.
+- Hebrew and civil calendar; every holiday and fast with its dates, meaning and halacha.
+- Male or female voice, adjustable speed and text size.
+
+## Links
+
+- [Website](https://iporto777.github.io/ijazan/)
+- [Google Play](https://play.google.com/store/apps/details?id=org.gopass.iJazan)
+- [App Store](https://apps.apple.com/app/id6826897265)
+- [Support](https://iporto777.github.io/ijazan/support.html)
+- [Privacy policy](https://iporto777.github.io/ijazan/privacy.html)
+
+## Contact
+
+Isaac Portocarrero — isaacpm94@gmail.com
